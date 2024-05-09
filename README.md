@@ -1,4 +1,4 @@
-<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1113F7&random=false&width=435&lines=SEJAM-BEM+VINDO%2C+Sou+o+Dev+Emerson" alt="Typing SVG" /></a> </h1>
+<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1113F7&random=false&width=435&lines=Sejam+bem-vindos!%2C+Sou+o+Dev+Emerson" alt="Typing SVG" /></a> </h1>
 
 Meu nome é Emerson e sou apaixonado pelo mundo da tecnologia e programação. Atualmente trabalho como desenvolvedor de sistemas, e faço alguns freelancer em projetos de programação,
 
@@ -25,7 +25,7 @@ Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios 
   
   
 </div>
-## 🌎 "Todos os seus sonhos podem se tornar realidade se você tiver a coragem de persegui-los" 🙏
+
 <h2> Entre em Contato: </h2>
 
 ![Linkedin Badge](https://img.shields.io/badge/-Emerson%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-oliveira143)
@@ -40,7 +40,7 @@ Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emerson143&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson143&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+## 🌎 "Todos os seus sonhos podem se tornar realidade se você tiver a coragem de persegui-los" 🙏
 ##
 
 <div>
@@ -48,6 +48,6 @@ Loanding Snake Status
 </div>
 <div>
   <picture align="center">    
-    <img src="https://github.com/Emerson143/Emerson143/snake-svg.svg">
+    <img src="https://github.com/Emerson143/Emerson143/blob/main/snake-svg.svg">
   </picture>
 </div>
