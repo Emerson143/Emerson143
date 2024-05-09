@@ -1,4 +1,4 @@
-<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1113F7&random=false&width=435&lines=Sejam+bem-vindos!%2C+Sou+o+Dev+Emerson" alt="Typing SVG" /></a> </h1>
+<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1113F7&random=false&width=435&lines=Sejam+bem-vindos!++Sou+o+Dev+Emerson" alt="Typing SVG" /></a> </h1>
 
 Meu nome é Emerson e sou apaixonado pelo mundo da tecnologia e programação. Atualmente trabalho como desenvolvedor de sistemas, e faço alguns freelancer em projetos de programação,
 
