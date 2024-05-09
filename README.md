@@ -40,8 +40,7 @@ Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emerson143&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson143&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-## 🌎 "Todos os seus sonhos podem se tornar realidade se você tiver a coragem de persegui-los" 🙏
-##
+ 
 
 <div>
 Loanding Snake Status
@@ -51,3 +50,4 @@ Loanding Snake Status
     <img src="https://github.com/Emerson143/Emerson143/blob/main/snake-svg.svg">
   </picture>
 </div>
+<span>🌎 "Todos os seus sonhos podem se tornar realidade se você tiver a coragem de persegui-los" 🙏</span>
