@@ -1,4 +1,4 @@
-<h1> <a href="https://git.io/typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1113F7&random=false&width=435&lines=SEJAM-BEM+VINDO%2C+Sou+o+Dev+Emerson)](https://git.io/typing-svg)" alt="Typing SVG" /></a> </h1>
+<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1113F7&random=false&width=435&lines=SEJAM-BEM+VINDO%2C+Sou+o+Dev+Emerson" alt="Typing SVG" /></a> </h1>
 
 Meu nome é Emerson e sou apaixonado pelo mundo da tecnologia e programação. Atualmente trabalho como desenvolvedor de sistemas, e faço alguns freelancer em projetos de programação,
 
@@ -8,10 +8,11 @@ também tenho excelentes habilidades de comunicação, garantindo uma boa comuni
 
 Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
-📍 **São Paulo-Sp** Zona Oeste/ Butantã
-🎓 **Formação:** Graduado em o Análise e Desenvolvimento de Sistemas
+📍 **São Paulo-Sp** Zona Oeste/ Butantã<br>
 
-<h2> 💻 Ferramentas e Tecnologias em que tenho </h2>
+🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas<br>
+
+<h2> 💻 Ferramentas e Tecnologias </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="CSharp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
@@ -29,6 +30,10 @@ Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios 
 
 ![Linkedin Badge](https://img.shields.io/badge/-Emerson%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-oliveira143)
 [![Gmail Badge](https://img.shields.io/badge/-emerson.143@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emerson.143@hotmail.com)](mailto:emerson.143@hotmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511959359740&text=Olá!)](https://api.whatsapp.com/send?phone=5511940599486&text=Olá!)
+
+#
+
+## :mortar_board: Github Stats
 
 <div>
   <a href="https://github.com/Emerson143"></a>
